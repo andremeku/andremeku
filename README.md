@@ -31,14 +31,16 @@ I'm especially interested in **Data Analytics, Business Intelligence, Marketing 
 
 ## 📂 Featured Projects
 
-| Project | Highlights | Tools |
-| --- | --- | --- |
-| **[E-Commerce Business Analytics — MSc Thesis](https://github.com/andremeku/ecommerce-business-analytics-thesis)** | Analysis of 500k+ retail transaction records, revenue trends, product concentration, geographical performance, and customer segmentation. | Python, Pandas, Tableau |
-| **[Hospital ICU Simulation & Predictive Modeling](https://github.com/andremeku/hospital-icu-simulation-predictive-modeling)** | Academic project exploring ICU capacity, stochastic simulation, and predictive-model benchmarking. | Python, Scikit-learn, AnyLogic |
-| **[IPL Player Analytics](https://github.com/andremeku/ipl-player-analytics)** | Cricket player performance analysis, statistics, and visual storytelling. | Python, Pandas, Matplotlib, Seaborn |
-| **[Germany Apartment Rental Analysis](https://github.com/andremeku/germany-apartment-rental-analysis)** | Cleaned and analyzed 175k+ apartment listings to investigate rental prices and location patterns. | Python, EDA, dashboards |
+| Project                                                                                                                           | Highlights                                                                                                                                                                | Tools                               |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **[E-Commerce Business Analytics — MSc Thesis](https://github.com/andremeku/ecommerce-business-analytics-thesis)**                | Analyzed 500K+ e-commerce transaction records to investigate revenue trends, product performance, geographical distribution, and customer segmentation.                   | Python, Pandas, Tableau             |
+| **[Beauty Product NLP Classification — L'Oréal AI Hackathon](https://github.com/andremeku/beauty-product-nlp-classification)** 🏆 | **2nd Place — L'Oréal AI Hackathon 2025.** Applied NLP and machine learning techniques to classify beauty product descriptions and extract structured product attributes. | Python, NLP, Scikit-learn, TF-IDF   |
+| **[Germany Apartment Rental Analysis](https://github.com/andremeku/germany-apartment-rental-analysis)**                           | Analyzed 175K+ German rental listings to identify pricing patterns, regional differences, and housing market trends through exploratory analysis and visualization.       | Python, Pandas, Looker Studio       |
+| **[Hospital ICU Simulation & Predictive Modeling](https://github.com/andremeku/hospital-icu-simulation-predictive-modeling)**     | Explored hospital ICU capacity planning through stochastic simulation, patient-flow analysis, and predictive modeling approaches.                                         | Python, Scikit-learn, AnyLogic      |
+| **[IPL Player Analytics](https://github.com/andremeku/ipl-player-analytics)**                                                     | Explored cricket player demographics, performance statistics, team trends, and clustering through exploratory data analysis and visualization.                            | Python, Pandas, Matplotlib, Seaborn |
 
-*Some repositories represent collaborative academic projects; individual contributions and project limitations are documented within them.*
+*Some repositories represent collaborative academic projects. Individual contributions and project limitations are documented within their respective repositories.*
+
 
 ## 💼 Professional Experience
 
